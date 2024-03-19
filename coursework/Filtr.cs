@@ -88,7 +88,7 @@ namespace BaseGIBDD
             maskedTextBox1.Text = "";
             textBox1.Text = "";
             textBox2.Text = "";
-            for (int i = 0; i < main?.count; i++)
+            for (int i = 0; i < main.count; i++)
             {
                 if (main.count == main.dataGridView1.Rows.Count)
                 {
