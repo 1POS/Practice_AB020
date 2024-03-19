@@ -1,0 +1,1 @@
+Установщик находится по пути BaseGibddSetup\Debug\BaseGibddSetup.msi

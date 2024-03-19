@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseGIBDD", "coursework\BaseGIBDD.csproj", "{262067D0-B342-40BD-A892-79C085BA0D0A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BaseGibddSetup", "BaseGibddSetup\BaseGibddSetup.vdproj", "{7AFF3C9C-9A17-4E20-A0DD-469D108491A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262067D0-B342-40BD-A892-79C085BA0D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262067D0-B342-40BD-A892-79C085BA0D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262067D0-B342-40BD-A892-79C085BA0D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262067D0-B342-40BD-A892-79C085BA0D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFF3C9C-9A17-4E20-A0DD-469D108491A4}.Debug|Any CPU.ActiveCfg = Debug
+		{7AFF3C9C-9A17-4E20-A0DD-469D108491A4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {501377C6-9F22-48AA-AE6F-5A8D78B80737}
+	EndGlobalSection
+EndGlobal
